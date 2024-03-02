@@ -1,0 +1,13 @@
+
+[
+    {
+        "id": "1f8c9626-55aa-467b-b199-6b146261f752",
+        "toDo": "Clean the kitchen",
+        "Completed": "true"
+    },
+    {
+        "id": "1f8c9206-66aa-532b-b199-6b146261f752",
+        "toDo": "Mop the floor",
+        "Completed": "false"
+    }
+]
